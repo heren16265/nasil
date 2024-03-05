@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    background-color: rgb(94, 94, 94);
+    color: #5c5c5c;
+}
+h3{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    background-color: rgb(36, 36, 36);
+    color: #ffffff;
+
+
+}
+button {
+    width: 10%;
+    padding: 10px;
+    min-width: 15px;
+    cursor: pointer;
+    align-self: center;
+    border: none;
+    border-radius: 10px;
+    background: #0e11b0;
+    font: inherit;
+    color: #fff;
+    
+    position: absolute;
+    top: 16%;
+     left: 5%;
+    transform: translate(-50%, -50%);
+}
